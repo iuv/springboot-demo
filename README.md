@@ -1,2 +1,3 @@
 # springboot-demo
-只是一个能启动的springboot项目
+springboot项目
+测试各种oom溢出情况
